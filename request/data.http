@@ -1,0 +1,21 @@
+@apivariable = http://localhost:3000/datos
+@apivariable2 = http://localhost:3000/solicitud
+
+### consultar DATOS DE CONSULTA
+GET {{apivariable}}
+
+### consultar estado de soliciud: DATOs DE CONSULTA
+GET {{apivariable2}}
+
+### por municipio
+GET {{{{apivariable}}}}/chilpancingo
+
+### por area
+GET {{{{apivariable}}}}/area/judicial
+
+### por programa
+GET {{{{apivariable}}}}/programa/departamento de becas
+
+### por apoyo
+GET {{{{apivariable}}}}/apoyo/alimentacion
+
