@@ -13,3 +13,15 @@ cmd genreal:
 ejecutar:
 
     npm run dev
+
+compilar:
+
+    npm run build
+
+testear conexión
+
+    npm run test
+
+ejecutar API (dentro de dist)
+
+    npm start
