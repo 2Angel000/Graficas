@@ -1,14 +1,12 @@
-cainstalación de dependencias a utilizar (SqlServer, cors, nodemon, etc) 
+instalación de dependencias a utilizar (SqlServer, cors, nodemon, etc) 
 
-npm install express cors mssql morgan dotenv
+instalando librerías:
 
-npm install @babel/core @babel/cli @babel/preset-env @babel/node nodemon -D
+    npm install express cors mssql morgan dotenv
 
-cmd genreal:
+instalando dependencias de desarrollo:
 
-
-
-
+    npm install @babel/core @babel/cli @babel/preset-env @babel/node nodemon -D
 
 ejecutar:
 
